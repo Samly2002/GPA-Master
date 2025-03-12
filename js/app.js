@@ -108,7 +108,7 @@ app.controller("gpaCtrl", function ($scope) {
                 'Currently you are in "Second Lower" degree level. Keep going.';
         } else if (gpa >= 2.0) {
             style = "grey-text";
-            greetingsText = "Hmmm...";
+            greetingsText = "Hmmmm...";
             eligibilityText =
                 'Is "General Degree" enough for you? Work Hard! You can do better.';
         } else {
